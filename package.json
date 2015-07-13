@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "watch": "node ./node_modules/gulp/bin/gulp.js"
+    },
+    "devDependencies": {
+        "gulp": "*",
+        "gulp-babel": "*",
+        "gulp-sourcemaps": "*",
+        "source-map-support": "*"
+    }
+}
