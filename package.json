@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "watch": "node ./node_modules/gulp/bin/gulp.js"
+        "start": "node ./node_modules/gulp/bin/gulp.js"
     },
     "devDependencies": {
         "gulp": "*",
